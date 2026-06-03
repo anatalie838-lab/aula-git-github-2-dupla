@@ -11,3 +11,13 @@
     text-align: center;
     padding: 50px;
 }
+
+.body-index {
+    background-color: #283db1;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url('"C:\Users\aluno.den\Pictures\download.jpg"');
+}
+
